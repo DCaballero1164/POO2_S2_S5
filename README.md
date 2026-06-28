@@ -1,7 +1,7 @@
-# 🧠 Actividad Sumativa 2 - Semana 5 - Desarrollo Orientado a Objetos II
+# 🧠 AS2 - Semana 5 - Desarrollo Orientado a Objetos II
 
 
-👤 Autor del proyecto
+👤
 
 Nombre completo: Daniel Francisco Caballero Salas
 
